@@ -1,0 +1,10 @@
+.work {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 243px;
+  height: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 22px;
+}

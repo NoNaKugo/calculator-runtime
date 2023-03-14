@@ -1,0 +1,5 @@
+.panelright {
+  display: flex;
+  width: 347.5px;
+  flex-direction: column;
+}

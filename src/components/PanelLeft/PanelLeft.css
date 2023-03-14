@@ -1,0 +1,12 @@
+.panelleft {
+  display: flex;
+  width: 347.5px;
+  flex-direction: column;
+}
+
+.panelleft-disabled {
+  display: flex;
+  width: 347.5px;
+  flex-direction: column;
+  visibility: hidden;
+}
