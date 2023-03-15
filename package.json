@@ -1,7 +1,7 @@
 {
   "name": "calculator-constructor",
   "version": "0.1.0",
-  "homepage": "https://tyt34.github.io/Calculator-Constructor/",
+  "homepage": "",
   "description": "Drag and drop приложение для сборки калькулятора",
   "main": "app.js",
   "private": true,
